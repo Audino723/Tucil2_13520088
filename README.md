@@ -14,9 +14,10 @@
 * [Creator](#creator)
 
 ## General Information
-- Program ini adalah program pencarian Convex HUll dari sekumpulan dataset.
-- Proses pencarian Convex Hull menggunakan strategi Divide n Conquer
-- Hasil pencarian Convex Hull akan divisualisasikan menggunakan Matplotlib
+- Program ini adalah program pencarian Convex Hull dari sekumpulan dataset yang diberikan.
+- Program ini ditujukan untuk tes linear separability
+- Proses pencarian Convex Hull menggunakan strategi Divide n Conquer.
+- Hasil pencarian Convex Hull akan divisualisasikan menggunakan Matplotlib.
 
 ## How to Run
 - Buka file ConvexHull.py 
