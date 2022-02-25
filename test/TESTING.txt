@@ -1,0 +1,13 @@
+-- CHOOSING DATASET
+data = datasets.{dataset_name}()
+
+-- LIST OF DATASET
+load_iris
+load_wine
+load_breast_cancer
+
+-- TESTED DATASET
+load_iris (petal length vs petal width)
+load_iris (septal length vs septal width)
+load_wine (alchohol vs color_intensity)
+load_wine (malic_acid vs total_phenols)
